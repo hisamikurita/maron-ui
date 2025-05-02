@@ -1,6 +1,6 @@
 import React from 'react';
 
-export const Card = () => {
+export const Test = () => {
   return (
     <div className="card">
       <h2>Card Title</h2>
